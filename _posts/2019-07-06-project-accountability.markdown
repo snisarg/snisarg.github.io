@@ -3,6 +3,7 @@ layout: post
 title:  "Project Accountability: How I track time spent"
 date:   2019-07-06 15:33:52 -0700
 categories: jekyll update
+comments: true
 ---
 A friend asked me what I achieved in 2017 in December. For someone who takes pride in not wasting time, I was surprised at how little I had to show for. Sure, I moved to Seattle, started a job after grad school and finally exercised regularly, but I couldn't fully describe how I spent 11.5 months.
 
