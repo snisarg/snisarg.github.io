@@ -22,6 +22,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://snisarg.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: snisarg
 github_username:  snisarg
+linkedin_username: snisarg
 
 show_excerpts: true
 
