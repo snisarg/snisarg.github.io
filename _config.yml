@@ -23,6 +23,8 @@ url: "snisarg.github.io" # the base hostname & protocol for your site, e.g. http
 twitter_username: snisarg
 github_username:  snisarg
 
+show_excerpts: true
+
 # Build settings
 markdown: kramdown
 theme: minima
