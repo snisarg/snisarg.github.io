@@ -16,8 +16,8 @@
 title: Nisarg's Notes
 email: snisarg@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Collection of personal notes for me to track.
-  Maybe it'll help you.
+  I really needed version-controlled notes.
+  Happy if it helps you. :)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://snisarg.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: snisarg
