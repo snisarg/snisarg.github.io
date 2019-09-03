@@ -1,40 +1,44 @@
 ---
 layout: post
-title:  "Discussion: changing jobs or staying put"
+title:  "Discussion: change jobs or stay put"
 date:   2019-09-02 17:19:00 -0700
 categories: blog
 comments: true
 ---
 
-I'm trying to be generic, but this is coming from my experience of changing jobs as a software engineer. I believe engineers have some of the best flexibility in choosing employers or working on their own projects. Here are some of the things I consider before finding a new employer. 
+Although this is coming from my experience of changing jobs as a software engineer, I'll try to be generic. I believe engineers great flexibility in choosing employers or working on their own projects. Here are some of the things I consider before finding a new employer. 
 
 # When To Change Jobs
 
+One or more of these are good reasons for jumping ship:
+
 * Dissatisfaction
 
-  If you absolutely do not like your job, think you're stuck, have a bad working environment (that you've failed to fix).
+  If you absolutely do not like your job, think you're stuck or have a bad working environment (that you've failed to fix).
 
 * Personal Growth
 
-  If you want to try something new, like a new interest or passion and know that you will be able to figure out finances (because a change means you'll start fresh, and will probably paid similarly too) or if you are not learning anything new to increase your future value/knowledge/skills.
+  If you are not learning new skills or if you want to try something new, like a new interest or passion and know that you will be able to figure out finances (because if the change means you'll start fresh, and will probably paid less too).
   
-* Monetary benefits
+* Monetary reasons
 
-  You are paid less than market rates
+  You are paid less than current market rates.
   
 * Change of environment 
 
-  You want to change the environment: startup v. big corporation, different city/country, new challenges
+  You want to change the environment: startup v. big corporation, different city/country, new challenges.
   
-* Job Market
+* Healthy job market
   
-    A minor point, but important nonetheless. The best time to change jobs is when everyone seems to be hiring in your area of expertise. It's nice to be able to apply to multiple places and pick what works best for you. The salaries are also generally higher in a competitive market. 
+    The best time to change jobs is when everyone seems to be hiring in your area of expertise. It's nice to be able to apply to multiple places and pick what works best for you. The salaries are also generally higher in a competitive market. 
 
 # When To Stay Put
 
+You will have to sacrifice these if you switch jobs:
+
 * Time 
 
-  There's a significant time investment associated with finding new opportunities: These depend on your occupation, but general steps are:
+  There's a significant time investment associated with finding new opportunities: These depend on your occupation, but general steps to it which take time are:
   1. Prepare for interviews
   1. Look for companies that are hiring 
   1. Interview 
@@ -42,15 +46,15 @@ I'm trying to be generic, but this is coming from my experience of changing jobs
   1. Quit and move
   1. At the new place, understand new processes, frameworks and workflows before you can get productive 
   
-  You want to make sure that there's at least a fair chance that this investment will be worth it; whether it's better pay, able to work at a better place, or the satisfaction from the new role.
+  You want to make sure that there's at least a fair chance that this time investment will be worth it; whether it's better pay, able to work at a better place, or the satisfaction from the new role.
   
-* Existing context
+* Context
 
     Longer tenured employees perform significantly better, navigate through problems faster and are more resourceful because they have a significant context built through the time spent at a given place. The reasons for this are:
     
     * Network
 
-      They know more people, know who's doing what and can cut through the hierarchies or "internal document searches" which are never really up-to-date and get help directly.
+      They can get help faster because the know more people, know who's doing what and can cut through the hierarchies or "internal document searches" which are never really up-to-date.
       
     * History
     
@@ -62,14 +66,11 @@ I'm trying to be generic, but this is coming from my experience of changing jobs
         
 * Growth/Promotions
 
-  Because of reasons mentioned above, longer tenured employees have an advantage of faster promotions: they can get things down faster and take on crucial challenges that could be unknown to newer employees. On the flip side, joining a new firm means you'll have to learn the new intricasies and demonstrate skills before being considered for a promotion.
+  Because of reasons mentioned above, longer tenured employees have an advantage of faster promotions: they can get things down faster and take on crucial challenges that could be unknown to newer employees. On the flip side, joining a new firm means you'll have to learn new intricasies of the job and demonstrate skills before being considered for a promotion.
     
 * Known unknowns and unknown unknowns
     
-  These are the risks associated with the change. Maybe you don't like *New City* after all or *New Company* is actually not a great place to work. These can be minimized by converting unknown unknowns to known unknows by research. 
-    
-
-  
+  These are the risks associated with the change. Maybe you don't like *New City* after all or *New Company* is actually not a great place to work. These can be minimized by converting unknown unknowns to known unknows by research and talking to people. 
 
 # Thought Process for Making a Decision
 
@@ -77,7 +78,7 @@ Ask yourself the following questions in this order:
 
 1. Is the dissatisfaction temporary?
 
-    Don't want to make knee-jerk decisions!
+    You don't want to make knee-jerk decisions!
 
 1. Is the unhappiness truly related to work? 
     
@@ -85,15 +86,15 @@ Ask yourself the following questions in this order:
 
 1. Did you talk to your boss about it? Maybe you haven't clearly communicated what you would and would not like to do? 
     
-    If you really want to work on another project, or want a raise, asking should be light-weight. I've heard a lot of instances where the manager was completely unaware and could have made accomodations.  
+    If you really want to work on another project, or want a raise, asking should be light-weight. I've heard a lot of instances where the manager was completely unaware and could have made accomodations.
 
-1. Do you want to consider other opportunities within the company? 
+1. Do you want to consider other opportunities within your company? 
 
     Hiring good talent hard, time consuming, risky and expensive. Most company should be happy to let you transfer to a new team or department instead of seeing you go. 
   
   1. You are not falling for "grass is greener on the other side"? 
   
-      It's easy to hear good things about other organizations, but what if the problem you're considering leaving also exists in a lot of places you may consider to interview at? Talking to others will help.
+      It's easy to hear good things about other work places, but what if the problems you're considering leaving for also exists at companies you may consider to interview for? Talking to others will help.
       
 1. Have you weighted your pros and cons? 
 
@@ -105,7 +106,7 @@ Ask yourself the following questions in this order:
 
 1. Is it worth it to pay the significant cost of time for the change? Are you willing to put in the efforts? 
 
-If the answer to all the above questions are yes, then all the best on your job hunt! 
+If the answer to all the above questions are yes, then you should strongly consider looking for a change. All the best for your job hunt! 
 
 # Short Circuiting
 
