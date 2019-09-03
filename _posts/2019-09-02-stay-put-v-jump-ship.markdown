@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Decisions: changing jobs or staying put"
+title:  "Discussion: changing jobs or staying put"
 date:   2019-09-02 17:19:00 -0700
 categories: blog
 comments: true
@@ -8,7 +8,7 @@ comments: true
 
 I'm trying to be generic, but this is coming from my experience of changing jobs as a software engineer. I believe engineers have some of the best flexibility in choosing employers or working on their own projects. Here are some of the things I consider before finding a new employer. 
 
-# When to change jobs
+# When To Change Jobs
 
 * Dissatisfaction
 
@@ -25,8 +25,12 @@ I'm trying to be generic, but this is coming from my experience of changing jobs
 * Change of environment 
 
   You want to change the environment: startup v. big corporation, different city/country, new challenges
+  
+* Job Market
+  
+    A minor point, but important nonetheless. The best time to change jobs is when everyone seems to be hiring in your area of expertise. It's nice to be able to apply to multiple places and pick what works best for you. The salaries are also generally higher in a competitive market. 
 
-# When to staying put
+# When To Stay Put
 
 * Time 
 
@@ -55,14 +59,19 @@ I'm trying to be generic, but this is coming from my experience of changing jobs
     * Clout
     
         There's a good chance the Director knows about the older employee already. Newer projects will fall in their laps and higher level decisions will include them, even if there's a newer, more experienced hire. People will also go to them for help first, leading to more learning and increased clout. 
+        
+* Growth/Promotions
+
+  Because of reasons mentioned above, longer tenured employees have an advantage of faster promotions: they can get things down faster and take on crucial challenges that could be unknown to newer employees. On the flip side, joining a new firm means you'll have to learn the new intricasies and demonstrate skills before being considered for a promotion.
     
-    * Known unknowns and unknown unknowns
+* Known unknowns and unknown unknowns
     
-      These are the risks associated with the change. Maybe you don't like *New City* after all or *New Company* is actually not a great place to work. These can be minimized by converting unknown unknowns to known unknows by research. 
+  These are the risks associated with the change. Maybe you don't like *New City* after all or *New Company* is actually not a great place to work. These can be minimized by converting unknown unknowns to known unknows by research. 
     
+
   
 
-# Thought process for making a decision
+# Thought Process for Making a Decision
 
 Ask yourself the following questions in this order:
 
@@ -88,16 +97,20 @@ Ask yourself the following questions in this order:
       
 1. Have you weighted your pros and cons? 
 
-    The points above should help.
+    The points from section <a href="#when-to-change-jobs">When To Change Jobs</A> should help.
     
+1. Is the job market in good shape for you to get an ideal role/company/position right now?
+
+    You don't want to spend the efforts looking for a new job when not a lot of places are hiring. This will limit options.
+
 1. Is it worth it to pay the significant cost of time for the change? Are you willing to put in the efforts? 
 
 If the answer to all the above questions are yes, then all the best on your job hunt! 
 
-# Short circuiting tips
+# Short Circuiting
 
-1. A way to short-circuit the decision making process is to see if you're going to regret not changing jobs later in life aka [Jeff Bezos' Regret Minimization Framework](https://www.inc.com/jessica-stillman/jeff-bezos-this-is-how-to-avoid-regret.html). It's always nice to experiment, and the cost may be worth it rather than regrets later in life. 
+1. A way to short-circuit the decision making process is to see if you're going to regret not changing jobs later in life aka [Jeff Bezos' Regret Minimization Framework](https://www.inc.com/jessica-stillman/jeff-bezos-this-is-how-to-avoid-regret.html). It's always nice to experiment, and the cost may be worth it rather than regrets later in life. Remember, this is a reversible decision. If you quit on good terms (as you should), you can always choose to go back.
 
 1. You can talk to others about their job satisfaction and work to compare notes so you can make informed decisions. 
 
-1. If money is a concern, it's easier to interview at other places to see what they have to offer. This has the added advantages of learning what options are other there, what are the current trends in the industry etc as you talk with people. This also helps you keep your interview skills up. Coding interviews need practice!  
+1. If money or role is a concern, it's easier to interview at other places to see what they have to offer. This has the added advantages of learning what options are other there, what are the current trends in your industry and how other companies are doing; as you talk with people who are hiring. This also helps you keep your interview skills up. Coding interviews need practice!  
