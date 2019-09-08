@@ -6,7 +6,7 @@ categories: blog
 comments: true
 ---
 
-I want to unify categories of articles and books I read and notes I take. I like to revist them frequently, and categorization will go a long way in making things eaiser. 
+I want to unify categories of articles and books I read and notes I take. I like to revist them frequently, and categorization will go a long way in making things eaiser. I couldn't find any standard followed for books, or a popular technique that is more nuanced. 
 
 Note that these are categories based on the books I read, and I don't intend to generalize these any time soon. 
 
