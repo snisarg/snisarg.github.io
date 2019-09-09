@@ -12,11 +12,11 @@ Note that these are categories based on the books I read, and I don't intend to 
 
 1. AI
 
-    Because I separate this from Computer Science, which goes in "code". It's really a separate and a bigger thing. 
+    I separate this from Computer Science, which goes in "code".
 
 1. Code
     
-    Anything to do with CS. I break these down into topics in my notes, like Distributed Systems and Design Patterns too.
+    Anything to do with Computer Science. I break these down into topics in my notes, like Distributed Systems and Design Patterns.
 
 1. Entrepreneurship
     
@@ -36,7 +36,7 @@ Note that these are categories based on the books I read, and I don't intend to 
 
 1. Language
     
-    Writing well, reading well, learning other languages (For me it's mainly Japanese)
+    Writing well, reading well, learning other languages (For me, it's mainly Japanese)
 
 1. Legacy 
    
