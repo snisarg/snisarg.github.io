@@ -50,3 +50,7 @@ Here are the questions I ask myself:
    * These are generally skills or similar abstract concepts. "Be more social" as an example.
 1. What would I want to accomplish? 
    * Some directly and simply measurable goals. "Read 15 books" as an example.
+
+## Generally
+1. What is the purpose, outcome, or the expected end state for the things you are doing?
+1. What would you do if you weren't afraid?
