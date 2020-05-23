@@ -6,7 +6,7 @@ categories: blog
 comments: true
 ---
 
-This is a summarization of all things investment focused on tax advantaged accounts and prioritization of account usage for different securities. I plan to add more strategies and links but right now only contains tax loss harvesting pointers to keep in mind. I've also focused on securities I generally deal with.
+This is a summarization of all things investment with a focus on tax advantaged accounts and prioritization of account usage for different securities. I plan to add more strategies and links but right now only contains tax loss harvesting pointers to keep in mind. I've also focused on securities I generally deal with.
 
 ## Types of Investment Accounts 
 
