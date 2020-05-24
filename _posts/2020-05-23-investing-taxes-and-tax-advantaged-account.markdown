@@ -85,6 +85,8 @@ Bonds sold at a discount from their par value, like 0 coupon bonds, will be taxe
 
 ## Investments and Tax Treatment 
 
+Arranged in increasing order of risk (and therefore, return).
+
 ### Liquid Money
 
 * Checking Account
@@ -158,6 +160,11 @@ Bonds sold at a discount from their par value, like 0 coupon bonds, will be taxe
 	* Account to use: Tax Free Account, Tax Deferred Account
 	* Links
 		* https://www.simplysafedividends.com/intelligent-income/posts/18-a-short-lesson-on-reit-taxation
+
+* BDC or Business Development Companies
+	* Regulated Investment Companies (RIC) that use their capital to load or buy stake in small and mid sized private copmanies.
+	* RICs need to pass at least 90% of the income so they pay no tax. Income therefore is taxable at income tax rates.
+	* Accounts to use: Tax Free Account.
 
 ### Insane Mode
 
