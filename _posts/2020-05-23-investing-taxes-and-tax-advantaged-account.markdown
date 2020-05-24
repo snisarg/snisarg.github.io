@@ -227,3 +227,4 @@ Between Tax Free Account and Tax Deferred Accounts, keep the ones with the highe
 
 ## Links
 * https://www.fidelity.com/viewpoints/investing-ideas/asset-location-lower-taxes
+* https://www.nerdwallet.com/blog/investing/tax-free-taxable-or-tax-deferred-accounts-where-should-your-investments-be/
