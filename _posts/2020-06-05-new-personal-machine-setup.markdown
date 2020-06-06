@@ -6,7 +6,7 @@ categories: blog
 comments: true
 ---
 
-Handy guide to set up a  new machine so everything is as is.. 
+Handy guide to set up a new machine so everything is as is.
 
 # MacOS
 
@@ -73,11 +73,19 @@ Handy guide to set up a  new machine so everything is as is..
     * Night Shift
       * From 3.31 AM to 3.30 AM.
   * (Potentially automate if a lot, based on https://github.com/mathiasbynens/dotfiles/blob/master/.macos)
-1. App specific preferences
-  * Finder
-    * Sidebar
-      * Check `username` so /Users/ directory is visible in finder
-      * Uncheck iCloud Drive if you're not using it.
 1. More hidden system preferences:
   * Update Screenshot image drop destination from Desktop to Downloads folder:
-    * $ defaults write com.apple.screencapture location ~/Downloads
+   * `$ defaults write com.apple.screencapture location ~/Downloads`
+1. Get your dotfiles from github.com/snisarg/dotfiles
+
+### Application specific preferences 
+
+1. Finder
+    * Sidebar
+        * Check your username so `/Users/username` directory is visible in finder
+        * Uncheck iCloud Drive if you're not using it.
+1. iTerm2
+    * Open iTerm2
+    * Toolbar > iTerm2 > 
+        * Make iTerm2 Default Term
+        * Install Shell Integrations 
