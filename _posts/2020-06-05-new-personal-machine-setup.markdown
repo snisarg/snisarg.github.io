@@ -18,11 +18,13 @@ Handy guide to set up a new machine so everything is as is.
     * Messenger
     * WhatsApp
     * If they ever release a good desktop app, Pocket and Feedly
+    * XCode
 1. From default browser, install:
     * Chrome
     * iTerm2
     * OneDrive for Mac
     * Google Drive File Stream
+    * Sublime Text
 1. Chrome
     * Sync Gmail and other accounts as separate profiles
     * Plugins should be pulled with the accounts:
