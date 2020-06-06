@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Fearlessly make decisions under ambiguity"
+description: "My observations of how leaders make decisions with limited information and make progress."
 date:   2019-10-17 12:00:00 -0700
 categories: blog
 comments: true

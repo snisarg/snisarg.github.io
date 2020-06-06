@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Project Accountability: How I track time spent"
+description:  "A time logging and reflection system to track and analyze where time was spent and how to optimize it to achieve goals."
 date:   2019-07-06 15:33:52 -0700
 categories: blog
 comments: true

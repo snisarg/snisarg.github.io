@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Discussion: change jobs or stay put"
+description: "Thinking points to consider when making a decision to stay at your current job or find a new one."
 date:   2019-09-02 17:19:00 -0700
 categories: blog
 comments: true

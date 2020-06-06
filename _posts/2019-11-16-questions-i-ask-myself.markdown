@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Questions I ask myself"
+description: "Introspective questions to think about so keep oneself on track to achieve goals, be thankful and reflect on how time was spent."
 date:   2019-11-16 12:00:00 -0700
 categories: blog
 comments: true

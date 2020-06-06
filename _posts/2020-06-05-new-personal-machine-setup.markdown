@@ -1,6 +1,7 @@
 ---
 layout: post
 title:    "New Personal Machine Setup"
+description: "Installations and configurations to get up and running on a new machine." 
 date:     2020-06-05 12:00:00 -0800
 categories: blog
 comments: true

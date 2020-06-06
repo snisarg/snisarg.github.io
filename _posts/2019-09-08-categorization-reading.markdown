@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Categories for articles and books"
+description: "Tags I use to categorize articles and books I read to find them easily when I need to."
 date:   2019-09-08 12:00:00 -0700
 categories: blog
 comments: true

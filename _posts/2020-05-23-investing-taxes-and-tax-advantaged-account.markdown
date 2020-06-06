@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Investing, Taxes and Tax Advantaged Accounts"
+description: "Summary of Investment types, Tax advantaged accounts in the US, how taxes affect investments and which accounts to employee for what type of investment to make the most out of them."
 date:   2020-05-23 11:00:00 -0800
 categories: blog
 comments: true

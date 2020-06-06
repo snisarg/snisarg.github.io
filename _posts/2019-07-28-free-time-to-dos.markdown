@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Tracking low priority tasks"
+description: "A system and apps I use to track all low priority tasks so I can get to them during downtime."
 categories: blog
 comments: true
 ---
