@@ -82,9 +82,12 @@ Handy guide to set up a new machine so everything is as is.
 ### Application specific preferences 
 
 1. Finder
-    * Sidebar
-        * Check your username so `/Users/username` directory is visible in finder
-        * Uncheck iCloud Drive if you're not using it.
+    * Preferences 
+        * Sidebar
+            * Check your username so `/Users/username` directory is visible in finder
+            * Uncheck iCloud Drive if you're not using it.
+    * Toolbar > View
+        * Click on Show Path Bar
 1. iTerm2
     * Open iTerm2
     * Toolbar > iTerm2 > 
