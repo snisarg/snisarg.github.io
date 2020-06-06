@@ -6,6 +6,8 @@ categories: blog
 comments: true
 ---
 
+Handy guide to set up a  new machine so everything is as is.. 
+
 # MacOS
 
 1. Deleted unwanted preinstalled apps 
@@ -19,6 +21,8 @@ comments: true
 1. From default browser, install:
   * Chrome
   * iTerm2
+  * OneDrive for Mac
+  * Google Drive File Stream
 1. Chrome
   * Sync Gmail and other accounts as separate profiles
   * Plugins should be pulled with the accounts:
@@ -69,6 +73,11 @@ comments: true
     * Night Shift
       * From 3.31 AM to 3.30 AM.
   * (Potentially automate if a lot, based on https://github.com/mathiasbynens/dotfiles/blob/master/.macos)
+1. App specific preferences
+  * Finder
+    * Sidebar
+      * Check `username` so /Users/ directory is visible in finder
+      * Uncheck iCloud Drive if you're not using it.
 1. More hidden system preferences:
   * Update Screenshot image drop destination from Desktop to Downloads folder:
     * $ defaults write com.apple.screencapture location ~/Downloads
