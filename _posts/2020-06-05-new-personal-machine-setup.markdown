@@ -77,6 +77,7 @@ Handy guide to set up a new machine so everything is as is.
   * Update Screenshot image drop destination from Desktop to Downloads folder:
    * `$ defaults write com.apple.screencapture location ~/Downloads`
 1. Get your dotfiles from github.com/snisarg/dotfiles
+* `$ cd /tmp && git clone https://github.com/snisarg/dotfiles.git && cp dotfiles/.* ~` 
 
 ### Application specific preferences 
 
