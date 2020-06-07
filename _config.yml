@@ -15,14 +15,25 @@
 # in the templates via {{ site.myvariable }}.
 title: Nisarg's Notes
 email: snisarg@gmail.com
+tagline: I just need version-controlled notes.
 description: >- # this means to ignore newlines until "baseurl:"
-  I really needed version-controlled notes.
-  Happy if it helps you. :)
+  I just need version-controlled notes.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://snisarg.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: snisarg
 github_username:  snisarg
 linkedin_username: snisarg
+
+social:
+  name: Nisarg Shah
+  links:
+    - https://www.facebook.com/snisarg/
+    - https://twitter.com/snisarg
+    - https://www.linkedin.com/in/snisarg/
+    - https://github.com/snisarg
+
+webmaster_verifications:
+  google: MPQto5JJBFYPGw43NoatTSHL4NwDNxhr42Tgr_jtuPg
 
 show_excerpts: true
 
