@@ -24,18 +24,6 @@ twitter_username: snisarg
 github_username:  snisarg
 linkedin_username: snisarg
 
-social:
-  name: Nisarg Shah
-  links:
-    - https://www.facebook.com/snisarg/
-    - https://twitter.com/snisarg
-    - https://www.linkedin.com/in/snisarg/
-    - https://github.com/snisarg
-
-webmaster_verifications:
-  google: MPQto5JJBFYPGw43NoatTSHL4NwDNxhr42Tgr_jtuPg
-  bing: 75521632482CC8733EF337A2A0FE1815
-
 show_excerpts: true
 
 # Build settings
@@ -48,6 +36,18 @@ plugins:
 
 # Google Analytics
 google_analytics: UA-143385424-1
+
+social:
+  name: Nisarg Shah
+  links:
+    - https://www.facebook.com/snisarg/
+    - https://twitter.com/snisarg
+    - https://www.linkedin.com/in/snisarg/
+    - https://github.com/snisarg
+
+webmaster_verifications:
+  google: MPQto5JJBFYPGw43NoatTSHL4NwDNxhr42Tgr_jtuPg
+  bing: 75521632482CC8733EF337A2A0FE1815
 
 # Disqus Comments
 disqus:
