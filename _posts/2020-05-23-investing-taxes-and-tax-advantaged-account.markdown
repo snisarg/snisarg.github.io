@@ -82,7 +82,7 @@ Bonds sold at a discount from their par value, like 0 coupon bonds, will be taxe
 	* Ideally, use short term capital losses because they are taxed at a higher rate and carry them over to future years instead of applying them to long term capital gains. 
 	* Carried over capital losses are applied to ordinary income, taxed at same rates as short term capital gains. 
 * Links
-	* https://www.fidelity.com/viewpoints/personal-finance/tax-loss-harvesting
+	* [Fidelity's Tax Loss Harvesting viewpoint](https://www.fidelity.com/viewpoints/personal-finance/tax-loss-harvesting)
 
 ## Investments and Tax Treatment 
 
@@ -115,14 +115,14 @@ Arranged in increasing order of risk (and therefore, return).
 	* No Federal tax. If you're in a taxable state, take that state's Muni bonds to not pay any Federal, State or City taxes.
 	* Account to use: Brokerage Account.
 	* Links
-		* Slides at https://www.fidelity.com/learning-center/investment-products/fixed-income-bonds/muni-bond-market-recording
+		* [Slides at Fidelity's Learning Center Fixed Income and Bonds page](  https://www.fidelity.com/learning-center/investment-products/fixed-income-bonds/muni-bond-market-recording)
 
 * Corporate Bonds
 	* Taxed as income.
 	* Higher risk-reward than government bonds, based on their ratings. 
 	* Account to use: Tax Free Account, Tax Deferred Account.
 	* Links
-		* https://www.investopedia.com/ask/answers/052715/how-corporate-bond-taxed.asp
+		* [Investopedia's article on Corporate tax bonds](https://www.investopedia.com/ask/answers/052715/how-corporate-bond-taxed.asp)
 
 ### High Risk
 
@@ -135,7 +135,7 @@ Arranged in increasing order of risk (and therefore, return).
 	* This is the reason why calculating how much one owes in taxes for mutual funds can get complicated. 
 	* Account to use: Tax Free Account, Tax Deferred Account
 	* Links
-		* https://www.fidelity.com/tax-information/tax-topics/mutual-funds
+		* [Fidelity's Tax Information about Mutual Funds](https://www.fidelity.com/tax-information/tax-topics/mutual-funds)
 
 * ETFs or Electronically Traded Funds
 	* Taxed just like the underlying stock or bond, including their dividends. 
@@ -143,7 +143,7 @@ Arranged in increasing order of risk (and therefore, return).
 	* For dividends, ordinary or qualified dividend rules apply.
 	* Accounts to use: Tax Deferred Account, Tax Free; assuming held long term.
 	* Links
-		* https://www.investopedia.com/articles/exchangetradedfunds/08/etf-taxes-introduction.asp
+		* [Investopedia's Introduction to ETF taxation](https://www.investopedia.com/articles/exchangetradedfunds/08/etf-taxes-introduction.asp)
 
 * Dividend Stocks
 	* Taxable dividend: Qualified v. Ordinary/Unqualified
@@ -160,7 +160,7 @@ Arranged in increasing order of risk (and therefore, return).
 	* It gets trickier with depreciations.
 	* Account to use: Tax Free Account, Tax Deferred Account
 	* Links
-		* https://www.simplysafedividends.com/intelligent-income/posts/18-a-short-lesson-on-reit-taxation
+		* [SimpleSafeDividend's post about REIT taxation](https://www.simplysafedividends.com/intelligent-income/posts/18-a-short-lesson-on-reit-taxation)
 
 * BDC or Business Development Companies
 	* Regulated Investment Companies (RIC) that use their capital to load or buy stake in small and mid sized private copmanies.
@@ -185,7 +185,7 @@ Arranged in increasing order of risk (and therefore, return).
 			* Depends on when it was bought.
 	* Accounts to use: Where stocks sit for covered calls, Brokerage to harvest the losses, Tax Free otherwise. Tax deferred account do not support options.
 	* Links
-		* https://www.investopedia.com/articles/active-trading/053115/tax-treatment-call-put-options.asp
+		* [Investopedia's article on options taxation](https://www.investopedia.com/articles/active-trading/053115/tax-treatment-call-put-options.asp)
 
 ## Investment Account Preference for investing
 
@@ -227,5 +227,5 @@ Between Tax Free Account and Tax Deferred Accounts, keep the ones with the highe
 
 
 ## Links
-* https://www.fidelity.com/viewpoints/investing-ideas/asset-location-lower-taxes
-* https://www.nerdwallet.com/blog/investing/tax-free-taxable-or-tax-deferred-accounts-where-should-your-investments-be/
+* [Fidelity's Viewpoint on Taxes and Accounts](https://www.fidelity.com/viewpoints/investing-ideas/asset-location-lower-taxes)
+* [NerdWallet's article on Taxes and Accounts]( https://www.nerdwallet.com/blog/investing/tax-free-taxable-or-tax-deferred-accounts-where-should-your-investments-be/)
