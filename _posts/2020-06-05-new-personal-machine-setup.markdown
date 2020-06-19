@@ -48,7 +48,7 @@ Handy guide to set up a new machine so everything is as is.
         * Screen Saver > Word of the Day
     * Dock
 	    * Position on screen: Left
-	        * Check Minimize windws into application icon
+        * Uncheck Minimize windws into application icon
     * Mission Control
         * Uncheck Automatically rearrange Spaces based on most recent use
     * Internet Accounts
