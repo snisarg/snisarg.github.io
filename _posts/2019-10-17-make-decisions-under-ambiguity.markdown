@@ -12,9 +12,9 @@ TLDR; learn to make the best decisions with limited information and resist the u
 
 #### Story time
 
-Back when I was working at Amazon, my team's principal engineer was presenting his vision to refactor our systems completely. I was amazed at how quickly he had come with the vision given he started working with the team only 4 weeks back. How could he have understood the problem, read about all the underlying pieces and figured out how to tackle the hundreds of edge cases that could come in the way of the project!?
+Back when I was working at Amazon, my team's principal engineer was presenting his vision to refactor our systems completely. I was amazed at how quickly he had come with the vision given he started working with the team only 4 weeks ago. How could he have understood the problem, read about all the underlying pieces and figured out how to tackle the hundreds of edge cases that could come in the way of the project!?
 
-During the design discussions, we asked how we would tackle some of issues that could crop up. To my surprise, he, for a lot of things, said that he doesn't know.
+During the design discussions, we asked how we would tackle some of issues that could crop up. To my surprise, he, for a lot of things, said that he didn't know.
 
 #### Know-it-all myth
 
@@ -24,7 +24,9 @@ It's actually that they can make decisions even in ambiguous situations. Their e
 
 #### Comfort in ambiguity
 
-Working under ambiguity is key. Take the best decision you can with as much information available to you but be ready to not have a complete picture. Smart colleagues and partners will understand that you did the right thing, even if you made a mistake. My senior engineer made a lot of assumptions about a lot of things and moved along with it. Some were wrong too, but the idea was that we can figure the details out and course-correct when we're actually working. He in fact, relies on everyone to learn and figure out solutions for unforeseen problems, and he's available to help throughout the journey. But for most parts, he had this plan ready and it was pretty good.
+Working under ambiguity is key. Take the best decision you can with as much information available to you but be ready to not have a complete picture. Smart colleagues and partners will understand that you did the right thing, even if you made a mistake. 
+
+My senior engineer made a lot of assumptions about a lot of things and moved along with it. Some were wrong too, but the idea was that we can figure the details out and course-correct when we're actually working. He in fact, relies on everyone to learn and figure out solutions for unforeseen problems, and he's available to help throughout the journey. But for most parts, he had this plan ready and it was pretty good.
 
 We don't have to get to the absolute bottom of everything we see and touch. That's the beauty of abstraction. Pushing the pedal means the bicycle will go faster, you don't HAVE to know about how the pedal translates to more RPM. You can do that later when you actually have to fix the bicycle or when you have time to take a look.
 

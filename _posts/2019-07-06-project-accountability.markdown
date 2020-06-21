@@ -6,9 +6,9 @@ date:   2019-07-06 15:33:52 -0700
 categories: blog
 comments: true
 ---
-A friend asked me what I achieved in 2017 in December. For someone who takes pride in not wasting time, I was surprised at how little I had to show for. Sure, I moved to Seattle, started a job after grad school and finally exercised regularly, but I couldn't fully describe how I spent 11.5 months.
+A friend asked me what I achieved in 2017 in December. As someone who takes pride in not wasting time, I was surprised at how little I had to show for. Sure, I moved to Seattle, started a job after grad school and finally exercised regularly, but I couldn't fully describe how I spent 11.5 months.
 
-I started thinking of ways I can be accountable for for my time. I wanted a system where I can reflect back on how I spent my time, and if that was spent doing what I really wanted to do and if it's helping me achieve my long-term goals. 
+I started thinking of ways I can be accountable for my time. I wanted a system where I can reflect back on how I spent my time, and if that was spent doing what I really wanted to do and if it's helping me achieve my long-term goals. 
 
 # Tools
 
@@ -20,7 +20,7 @@ If I am unable to meet this, I have to deliberately move the calendar entry, whi
 
 ## Looking behind: Journaling on Google Docs
 
-To know what I'm doing day to day, I'm currently maintaining a Google Doc titled "Task Log". A typical entry for one day looks something like:
+To know what I'm doing day to day, I'm currently maintaining a Google Doc titled "Task Log." A typical entry for one day looks something like:
 
 ```
 7-6-2019, Sat
@@ -46,7 +46,7 @@ I'd love to just make an app myself, if there are users out there for something 
 
 # Analyzing time spent
 
-I'd like to ideally do this every quarter: look at the Task Log for the last 3 months and write a summary (GDocs again for me) for how time was spent each month using a similar bullet system. 
+I'd like to ideally do this every quarter: look at the Task Log for the last 3 months and write a summary for how time was spent each month using a similar bullet system. 
 
 ```
 2019

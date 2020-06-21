@@ -187,7 +187,7 @@ Arranged in increasing order of risk (and therefore, return).
 	* Links
 		* [Investopedia's article on options taxation](https://www.investopedia.com/articles/active-trading/053115/tax-treatment-call-put-options.asp)
 
-## Investment Account Preference for investing
+## Investment Account Preference for Investing
 
 Ideally, the preference for all investments would be:
 1. No Tax At All Account

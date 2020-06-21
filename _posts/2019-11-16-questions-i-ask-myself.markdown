@@ -22,7 +22,7 @@ Here are the questions I ask myself:
    * Focus is on summarizing how time was spent, internalize trends.
 1. Are there any priorities that I couldn't get to? Any chores? Why?  
 1. What do I intend to do next week?
-   * I intend to allocate time based on monthly or yearly goals. This helps me prioritize my week. 
+   * I allocate time based on monthly or yearly goals. This helps me prioritize my week. 
 1. Is time spent and future plans aligned with longer term goal? 
 
 ## Every month
@@ -35,7 +35,7 @@ Here are the questions I ask myself:
    1. What did I finish what I intended to finish? What did I not?
    1. What is no longer necessary or valuable? Can something be deprioritized? 
 1. How intentional was I with time spent? 
-   * It's okay to watch TV as long as I'm intentional about it. It's not okay to wonder where 4 weekends went by when you intended to do something you never got it. 
+   * It's okay to watch TV as long as I'm intentional about it. It's not okay to not know when 4 weekends went by and you didn't get to what you planned to do. 
 1. Did I learn anything? 
    * I find it helpful to take note of things, at least mentally. 
 1. Did I spend time to achieve my goals for the year?
@@ -43,8 +43,8 @@ Here are the questions I ask myself:
    1. Prioritize tasks
    
 ## Every year
-1. Top achievements that I'm proud of?
-1. Top mistakes I made?
+1. Top achievements that I'm proud of.
+1. Top mistakes I made.
 1. What did I learn? 
 1. What am I grateful for? 
 1. What are the top focus areas for next year?

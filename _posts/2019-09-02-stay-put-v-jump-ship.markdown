@@ -7,7 +7,7 @@ categories: blog
 comments: true
 ---
 
-Although this is coming from my experience of changing jobs as a software engineer, I'll try to be generic. I believe engineers great flexibility in choosing employers or working on their own projects. Here are some of the things I consider before finding a new employer. 
+Here are some of the things I consider before finding a new employer. This is coming from my experience of changing jobs as a software engineer but I'll try to be generic. I believe engineers have great flexibility in choosing employers or working on personal projects. 
 
 # When To Change Jobs
 
@@ -15,11 +15,11 @@ One or more of these are good reasons for jumping ship:
 
 * Dissatisfaction
 
-  If you absolutely do not like your job, think you're stuck or have a bad working environment (that you've failed to fix).
+  If you absolutely do not like your job, think you're stuck or have a bad working environment (that you've tried and failed to fix).
 
 * Personal Growth
 
-  If you are not learning new skills or if you want to try something new, like a new interest or passion and know that you will be able to figure out finances (because if the change means you'll start fresh, and will probably paid less too).
+  If you are not learning new skills or if you want to try something new, like a new interest or passion and know that you will be able to figure out your finances (because if the change means you'll start fresh, and will probably paid less too).
   
 * Monetary reasons
 
@@ -45,7 +45,7 @@ You will have to sacrifice these if you switch jobs:
   1. Interview 
   1. Comparing offers, make a decision
   1. Quit and move
-  1. At the new place, understand new processes, frameworks and workflows before you can get productive 
+  1. At the new place: understand new processes, frameworks and workflows before you can get productive 
   
   You want to make sure that there's at least a fair chance that this time investment will be worth it; whether it's better pay, able to work at a better place, or the satisfaction from the new role.
   

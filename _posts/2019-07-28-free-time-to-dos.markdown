@@ -6,7 +6,7 @@ categories: blog
 comments: true
 ---
 
-I was already using a list in some form since years, but I wanted to capture a lower priority list of things to do when I'm sitting idle. I find myself in situations where I can't spend time on anything important (commuting to work, those 15 wasted minutes between meetings), or have exhausted myself working on those. To make maximal utilization of my time, I essentially wanted to know what I can do in those short periods of time, which is very different in nature than primary tasks.
+I was already using lists in some form since years, but I wanted to capture a lower priority list of things to do when I'm sitting idle. I find myself in situations where I can't spend time on anything important (commuting to work, those 15 wasted minutes between meetings), or have exhausted myself working on those. To make maximal utilization of my time, I essentially wanted to know what I can do in those short periods of time, which is very different in nature than primary tasks.
 
 This isn't exactly novel. There are a hundred well known and popular to-do apps out there from generalized "lists and notes" taking app to highly specialized ones with reminders and collaboration and subtasks. 
 
