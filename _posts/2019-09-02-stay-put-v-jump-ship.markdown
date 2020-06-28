@@ -32,6 +32,10 @@ One or more of these are good reasons for jumping ship:
 * Healthy job market
   
     The best time to change jobs is when everyone seems to be hiring in your area of expertise. It's nice to be able to apply to multiple places and pick what works best for you. The salaries are also generally higher in a competitive market. 
+    
+* Lost faith in the leadership
+
+    If you lose faith in the team or the org's mission, try to change teams is a possibility. However if you don't believe in the company or the main product, you should leave to something you believe will succeed or aligns with your life mission.  
 
 # When To Stay Put
 
