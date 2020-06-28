@@ -43,6 +43,7 @@ Handy guide to set up a new machine so everything is as is.
         * Appearance: Dark
         * Show scroll bars: When scrolling
         * Default Web Browser: Chrome
+        * Uncheck Close windws when quitting an app
         * Recent items: 20
     * Desktop & Screen Saver 
         * Screen Saver > Word of the Day
