@@ -14,11 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Nisarg's Notes
-tagline: I just need version-controlled notes.
+tagline: I need version-controlled notes.
 description: >- # this means to ignore newlines until "baseurl:"
-  Nisarg Shah
-  Computer Science, Technology, Software Development, Machine Learning, Finance, Investments, Interviewing, Productivity
-  I just need version-controlled notes.
+  I need version-controlled notes.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://snisarg.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: snisarg
