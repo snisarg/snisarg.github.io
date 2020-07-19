@@ -34,7 +34,7 @@ Tax can be due either before investing money in the account, or during withdrawa
 
 	* 401k ROTH account
 	  
-	  Needs the employee to allow it.
+	  Needs the employer to allow it.
 
 	* ROTH IRA account
 
