@@ -7,7 +7,7 @@ categories: blog
 comments: true
 ---
 
-This note talks about tax advantaged schemes in the US I employee and my current thinking into why and how much.
+This note talks about tax advantaged schemes in the US I employee and my current thinking into why and how much I should be investing with these accounts. 
 
 ## HSA
 
@@ -15,19 +15,26 @@ This note talks about tax advantaged schemes in the US I employee and my current
 
 If you have a high deductible insurance plan, you can use the Health Savings Account as an investment vehicle. 
 
-It has a limit on how much you can put into this every year, but you don't have to pay tax for the amount nor pay tax withdrawing from this account, as long as the withdrawals are for medical purposes. 
+It has a limit of $3,550 a year, but you don't have to pay tax for the amount nor pay tax withdrawing from this account, as long as the withdrawals are for medical purposes. Look for HSA compliant purchases for a comprehensive list.
 
 To take the maximum advantage of this account, save your medical receipts and reimburse them all in one go when you really need the money, hopefully much later in life. Till then, let the money grow in this account tax free. 
 
-The biggest disadvantage of this account is that you need to keep track of your medical receipts yourself. A teammate from my old job literally maintained a shoe-box to put these in. Some HSA accounts now let you upload receipts for safe-keeping too, which is great.
+The biggest disadvantage of this account is that you need to keep track of your medical receipts yourself. A teammate from my old job literally maintained a shoe-box to put these in. Some HSA accounts now let you upload receipts for safe-keeping too and you can apply these expenses as and when you need the money. This is great as it takes most of the overhead out.
+
+Links
+* [Investopedia's article on investing with an HSA Account](https://www.investopedia.com/articles/personal-finance/091615/how-use-your-hsa-retirement.asp)
 
 ## Backdoor ROTH IRA
 
 *Taxed going in, no tax going out;*
 
-Traditional IRA accounts are used to invest for retirement with taxable money, but you can grow that money without paying tax when you withdraw it. Unfortunately, this has an income limitation for investing. This can be overcome by a well known loophole in the tax code, hence the name "Backdoor" ROTH IRA.
+Traditional IRA accounts are used to invest for retirement with pretax money. Unfortunately, this has an income limitation of $124,000 for investing. This can be overcome by a well known loophole in the tax code, hence the name "Backdoor" ROTH IRA.
 
-The idea is to put money you've already paid tax on in the Traditional IRA and move that into a ROTH IRA after a few days. You can do that for up to $6000 a year, which is the limit for 2020. Make sure you move the money quickly, as you will owe 
+The idea is to put money you've already paid tax on in the Traditional IRA and move that into a ROTH IRA after a few days. You can do that for up to $6000 a year, which is the limit for 2020. Make sure you move the money quickly, as you will owe taxes on any gains while it's in the Traditional IRA account.
+
+Links
+* [IRS's IRA contribution limit](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-ira-contribution-limits)
+* [TD Ameritrade's article on Backdoor Roth IRA](https://tickertape.tdameritrade.com/retirement/backdoor-roth-ira-conversion-17284)
 
 ## Employee sponsored plans
 
@@ -47,13 +54,16 @@ This employs another tax code loophole, uses 'after-tax' 401k investments and co
 
 The biggest downside of this is that it is employer dependent, so you may or may not be able to do this. 
 
+Links:
+* [thecollegeinvestor.com's detailed article](https://thecollegeinvestor.com/17561/understanding-the-mega-backdoor-roth-ira/)
+
 ### Restriction
 
 401k contributions are limited, but there are no specific limits on employer's contribution or after-tax contributions. Instead, there's a maximum total limit of $57,000 on the sum total of these three. 
 
 ## My thoughts
 
-I'm thankful that I have a job in tech and get paid a very competitive salary. My intuition going forward is that since the salaries will potentially be competitive, I can take home very little right now but maximize my retirement investments as far as possible. I would have invested my salary anyway, so might as well get a favorable tax treatment by investing via the accounts mentioned above. A hidden advantage is that because of these, my take home salary is much smaller, which keeps my spending in check. 
+I'm thankful that I have a job in tech and get paid a very competitive salary. My intuition going forward is that since the salaries will potentially remain competitive, I can take home very little right now but maximize my retirement investments as far as possible. I would have invested my salary anyway, so might as well get a favorable tax treatment by investing via the accounts mentioned above. A hidden advantage is that because of these, my take home salary is much smaller, which keeps my spending in check. 
 
 You want to start as early as possible as each of these accounts have a yearly maximum allowed. 
 
