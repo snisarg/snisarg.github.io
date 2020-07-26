@@ -1,11 +1,13 @@
 ---
 
-## layout: post
+layout: post
 title: "Tax Advantaged Accounts"
 description: "Tax advantaged accounts employees tech job"
 date: 2020-07-25 00:00:00 -0800
 categories: blog
 comments: true
+
+---
 
 This note talks about tax advantaged schemes in the US I employee and my current thinking into why and how much I should be investing with these accounts.
 
