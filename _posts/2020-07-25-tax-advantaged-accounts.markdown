@@ -25,13 +25,13 @@ Links:
 * [madfientist's article on why HSA is the best retirement account](https://www.madfientist.com/ultimate-retirement-account/)
 * [Investopedia's article on investing with an HSA Account](https://www.investopedia.com/articles/personal-finance/091615/how-use-your-hsa-retirement.asp)
 
-## Backdoor ROTH IRA
+## Backdoor Roth IRA
 
 *Taxed going in, no tax going out;*
 
-Traditional IRA accounts are used to invest for retirement with pretax money. Unfortunately, this has an income limitation of $124,000 for investing. This can be overcome by a well known loophole in the tax code, hence the name "Backdoor" ROTH IRA.
+Traditional IRA accounts are used to invest for retirement with pretax money. Unfortunately, this has an income limitation of $124,000 for investing. This can be overcome by a well known loophole in the tax code, hence the name "Backdoor" Roth IRA.
 
-The idea is to put money you've already paid tax on in the Traditional IRA and move that into a ROTH IRA after a few days. You can do that for up to $6000 a year, which is the limit for 2020. Make sure you move the money quickly, as you will owe taxes on any gains while it's in the Traditional IRA account.
+The idea is to put money you've already paid tax on in the Traditional IRA and move that into a Roth IRA after a few days. You can do that for up to $6000 a year, which is the limit for 2020. Make sure you move the money quickly, as you will owe taxes on any gains while it's in the Traditional IRA account.
 
 Links:
 * [IRS's IRA contribution limit](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-ira-contribution-limits)
@@ -48,11 +48,11 @@ A popular scheme if provided by the employer to reduce one's taxable income. Man
 
 The limit for 2020 on 401k contribution is $19,500. See Restrictions section for more details. 
 
-### Mega-backdoor ROTH
+### Mega-backdoor Roth
 
 *Taxed going in, no tax going out; Should be supported by employer*
 
-This employs another tax code loophole, uses 'after-tax' 401k investments and converts them to a 401k ROTH plan. Even though it's a backdoor, it has been codified into the law, so much so that Fidelity even offers automatic conversion from the after-tax account to ROTH (called daily in-plan conversion)
+This employs another tax code loophole, uses 'after-tax' 401k investments and converts them to a 401k Roth plan. Even though it's a backdoor, it has been codified into the law, so much so that Fidelity even offers automatic conversion from the after-tax account to Roth (called daily in-plan conversion)
 
 The biggest downside of this is that it is employer dependent, so you may or may not be able to do this. 
 
@@ -69,13 +69,13 @@ I'm thankful that I have a job in tech and get paid a very competitive salary. M
 
 You want to start as early as possible as each of these accounts have a yearly maximum allowed. 
 
-I love the ROTH accounts because I can invest in safe investments which don't get special tax treatments like the long term capital gains tax. For more information, see [Investing, Taxes and Tax Advantaged Accounts]({{ site.baseurl }}{% post_url 2020-05-23-investing-taxes-and-tax-advantaged-account %}).
+I love the Roth accounts because I can invest in safe investments which don't get special tax treatments like the long term capital gains tax. For more information, see [Investing, Taxes and Tax Advantaged Accounts]({{ site.baseurl }}{% post_url 2020-05-23-investing-taxes-and-tax-advantaged-account %}).
 
 ### HSA
 
 By getting an account with someone that lets you upload receipts for future reimbursement, the pain to manage an HSA account is almost out. My current employer does not support it, but paying no tax on investments is great.
 
-### Backdoor ROTH IRA
+### Backdoor Roth IRA
 
 I've started investing with this account ever since I got to know about it. I am risking not being able to withdraw the principle amount for 5 years, but in return I save tax on investments that I would have made anyway with that money. 
 
@@ -83,7 +83,7 @@ I've started investing with this account ever since I got to know about it. I am
 
 I am currently investing to get my employer's match so I don't leave any free money on the table. I am considering investing more in the future if I can build up enough savings. 
 
-### Mega-backdoor ROTH
+### Mega-backdoor Roth
 
 I am maximizing the $27,500 I can invest via this vehicle. This limit is set by my current employer to keep 401k investments under $57,000 at all times. My reasoning for using this strategy include:
 
