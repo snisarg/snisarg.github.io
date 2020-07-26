@@ -21,7 +21,8 @@ To take the maximum advantage of this account, save your medical receipts and re
 
 The biggest disadvantage of this account is that you need to keep track of your medical receipts yourself. A teammate from my old job literally maintained a shoe-box to put these in. Some HSA accounts now let you upload receipts for safe-keeping too and you can apply these expenses as and when you need the money. This is great as it takes most of the overhead out.
 
-Links
+Links:
+* [madfientist's article on why HSA is the best retirement account](https://www.madfientist.com/ultimate-retirement-account/)
 * [Investopedia's article on investing with an HSA Account](https://www.investopedia.com/articles/personal-finance/091615/how-use-your-hsa-retirement.asp)
 
 ## Backdoor ROTH IRA
@@ -32,8 +33,9 @@ Traditional IRA accounts are used to invest for retirement with pretax money. Un
 
 The idea is to put money you've already paid tax on in the Traditional IRA and move that into a ROTH IRA after a few days. You can do that for up to $6000 a year, which is the limit for 2020. Make sure you move the money quickly, as you will owe taxes on any gains while it's in the Traditional IRA account.
 
-Links
+Links:
 * [IRS's IRA contribution limit](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-ira-contribution-limits)
+* [whitecoatinvestor's tutorial](https://www.whitecoatinvestor.com/backdoor-roth-ira-tutorial/)
 * [TD Ameritrade's article on Backdoor Roth IRA](https://tickertape.tdameritrade.com/retirement/backdoor-roth-ira-conversion-17284)
 
 ## Employee sponsored plans
