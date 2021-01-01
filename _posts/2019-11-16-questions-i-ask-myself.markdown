@@ -55,3 +55,7 @@ Here are the questions I ask myself:
 ## Generally
 1. What is the purpose, outcome, or the expected end state for the things you are doing?
 1. What would you do if you weren't afraid?
+
+## Links
+### Everyday
+* More forward looking and goal oriented than introspective: https://twitter.com/JeffBooth/status/1344712526919991296
