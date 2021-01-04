@@ -41,6 +41,14 @@ Here are the questions I ask myself:
 1. Did I spend time to achieve my goals for the year?
 1. What will I do next month? (Personal time and at work)
    1. Prioritize tasks
+
+## Every 6 months
+1. Work
+   1. Why you should and should not work on the project, team and company you are working in. 
+   1. What did you like doing? 
+   1. What challenging problem did you solve, what are you proud of doing? 
+1. Personal 
+   1. What should be prioritized, deprioritized
    
 ## Every year
 1. Top achievements that I'm proud of.
