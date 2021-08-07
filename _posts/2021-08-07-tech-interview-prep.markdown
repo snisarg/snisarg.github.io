@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tech Interviews: process, preparation and hacks"
-description: "Lessons learned from tech interviews, steps I follow and my recommendations"
+description: "Lessons learned from tech interviews, how I approach interviewing and preparation guidelines."
 date:   2021-08-07 00:00:00 -0800
 categories: blog
 comments: true
