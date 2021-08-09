@@ -84,9 +84,33 @@ I would strongly recommend having the goal of getting multiple offers.
 - You get your name in the recruitment systems of everywhere you apply and interview at. Even if you don't make it through, recruiters can reach out in the future, making it easier to schedule an interview. Some companies skip phone screens and even cut a few rounds in the interview process based on your past performance.
 - More offers give you the flexibility to make a more informed choice. Maybe a remote option doesn't matter right now but could in the future, or an offer with flexibility of which city you work from could make you consider moving to New York like you always wanted to!
 
-### Resume update
+### Start updating your resume
 
-Talking about your most recent experience is what recruiters and hiring managers are looking for. Update your LinkedIn profile as well.
+Add new projects and experiences into your resume and LinkedIn profile. Keep your resume to 1 page strictly unless you are applying as a researcher and need to showcase all your publications. 
+
+If you have worked on more projects than what you can fit on one page, use these heuristics to decide what to keep and what to remove from your resume: 
+
+- Relevance
+
+    Highlight projects that showcase skills for the roles you are applying for. An Android project won't help you stand out for the Machine Learning Engineering position that you are shooting for. 
+
+- Impact
+
+    Highlight projects that show scope, responsibilities, design skills, metric impact, project or people management skills. Bonus points for including measurable numbers. This shows the maturity and level at which you have undertaken projects, and is more effective than including buzz words. 
+
+- Recency
+
+    Your school project may have been cool, but hiring managers are more interested in what you are working on right now. 
+
+    Corporate projects are preferred over personal projects unless they were developed in open source and have significant impact or adoption. The reason is, with corporate projects, there are stricter deadlines, money at stake, and more challenges working with people and teams. 
+
+- Visibility
+
+    Work that can be seen by people outside the company, like open source contributions or work that went into papers or company press announcements is preferred. 
+
+Note that you will be asked questions about the projects you include in your resume. Be ready to talk about your exact responsibilities and answer specific questions about the project. 
+
+Keep updating your resume as you move along in the process, it can take some time depending on when you last updated it. Don't block on this step or try to do this in one sitting. 
 
 ### System Design
 
