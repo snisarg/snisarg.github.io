@@ -116,23 +116,25 @@ Keep updating your resume as you move along in the process, it can take some tim
 
 System Design needs less preparation and comes with experience on the job as well as reading blog posts, articles and papers about new developments in your field of work. The importance of these rounds increases compared to coding interview depends on the seniority of the role you are shooting for. 
 
-From a preparation standpoint, consider:
+From a preparation standpoint, you ideally don't want to prepare for these all at one go. Instead, start from the get go all the way to when you start interviewing. Consider:
 
 - Reading books on design
 
     [Designing Data-Intensive Applications by Martin Kleppmann](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) is one of the best books to brush up on design skills.
 
-- Interview spcific resources online
+- Interview specific resources online
 
     [donnemartin's System Design Primer](https://github.com/donnemartin/system-design-primer) is an excellent read resource for a quick recap on basic infrastructure system design principles.
 
 - Read seminal papers or articles about how these systems were designed.
     - [https://paperswithcode.com](https://paperswithcode.com/) has curated list of top AI papers.
     - [https://blog.acolyer.org](https://blog.acolyer.org/) or The Morning Paper is an incredible resource for top papers summarized well.
+
 - Tech blogs
     - [http://highscalability.com](http://highscalability.com/) for scalable backend designing and curated experience stories.
+    - [InfoQ's YouTube channel](https://www.youtube.com/user/MarakanaTechTV) has great videos about a lot of interesting topics.
     - Netflix's blog is great: [https://netflixtechblog.com](https://netflixtechblog.com/)
-    - Almost every tech companies will have a tech blog, so pick your favorite!
+    - Almost every tech company has a blog, so pick your favorite!
 
 ## Warming up
 
@@ -146,7 +148,7 @@ For this, pick any of the popular competitive coding or dedicated programming in
 - [Hackerrank](https://www.hackerrank.com/)
 - [CodeWars](https://www.codewars.com/)
 
-I recommend starting with the easier ones on these website, even if the solution for most is obvious just by reading the questions. You'll be surprised how many edge cases a simple problem could have.
+I recommend starting with the easier ones on the website of your choice. Solve the problem even if the solution to it is obvious to you just by reading the questions. You'll be surprised how many edge cases a simple problem could have.
 
 I generally do easy problems till I find them too easy. This is when I'm getting them right back to back covering all edge cases and don't need a lot of thinking. If you're good at competitive coding, feel free to skip this step.
 
@@ -239,7 +241,7 @@ If a company is interested in your profile, a recruiter will reach out to you to
 
     Up to your personal preferences.
 
-    I like to allocate a full week for back to back on-site interviews. Most companies allows easy scheduling, try to fit them in that one week. I know friends who don't prefer back to back interviews and interleave time between them too.
+    I like to allocate a full week for back to back on-site interviews. Most companies allow easy scheduling, try to fit them in that one week. I know friends who don't prefer back to back interviews and interleave time between them too.
 
     I keep a few days between these "interview weeks." The gap is useful not only to take a small break but learn from the mistakes. Don't take too long though, as offer deadlines will follow too.
 
@@ -271,7 +273,7 @@ Although most questions asked in behavioral rounds are about your past experienc
 
 - Working style, cultural alignment
 
-    Do you like you work alone or in a group? How do you drive 1:1s with your managers, peers, and people you manager? How do you drive cross-team collaborations? How do you plan project timelines, assign responsibilities? Do you have a framework to spot opportunities? How do you motivate teammates?
+    Do you like working alone or in a group? How do you drive 1:1s with your managers, peers, and people you manage? How do you drive cross-team collaborations? How do you plan project timelines, assign responsibilities? Do you have a framework to spot opportunities? How do you motivate teammates?
 
 - Future Plan
 
@@ -350,7 +352,7 @@ Congratulations!
 
 ### Next step and timelines
 
-Once you accept an offer, the legal paperwork begins. This can be time consuming, especially if you are on work visa.
+Once you accept an offer, the legal paperwork begins. This can be time consuming, especially if you are on a work visa.
 
 Plan a rough timeline going forward, before you give your new employee a start date. Here's some of the things on my mind, in chronological order:
 
@@ -420,9 +422,9 @@ PS: I have unfortunately not been able to keep up with this myself.
 
 ### Consider regular interviewing
 
-My friend's director told his team to regularly interview at other companies of their interest. You learn of interesting things are going on elsewhere as it's easy to get caught up in the bubble of where you're working. This way, you are are aware of newer opportunities as well as find out about competitive compensations.
+My friend's director told his team to regularly interview at other companies of their interest. You learn of interesting things that are going on elsewhere as it's easy to get caught up in the bubble of where you're working. This way, you are aware of newer opportunities as well as find out about competitive compensations.
 
-This idea goes along with keeping the practice up. Say interviewing once every 18 months at a few places that you would absolutely love to work at, even if you aren't looking for a new job seriously at that moment.
+This idea goes along with keeping the practice up. Say interviewing once every 18 months at a few places that you would absolutely love to work at, even if you aren't seriously looking for a new job at that moment.
 
 ## Thoughts
 
