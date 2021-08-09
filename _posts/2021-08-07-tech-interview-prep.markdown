@@ -78,7 +78,7 @@ To ace the coding interview, a good grip on the programming language you choose 
 
 I would strongly recommend having the goal of getting multiple offers. 
 
-- Multiple offers are instrumental in negotiating a better compensation package. Even if you are absolutely obsessed about working at one and only one company, presenting them with an alternative offer can help score a better pay.
+- Multiple offers are instrumental in negotiating a better compensation package. Even if you are absolutely obsessed about working at one and only one company, presenting them with an alternative offer can help score a better pay. This information is often collected by recruiters to fight for a better offer approval for you. 
 - Interviewing at different places gives you a peak into diverse work cultures, company missions and what different teams are working on. This is a great discovery process and could influence your current or future career decisions.
 - More offers give you the flexibility to make a more informed choice. Maybe a remote option doesn't matter right now but could, an offer with flexibility of which city you work from could make you consider moving to New York like you always wanted to!
 - When you're given an offer with a deadline, it's easier to turn it down if you're still interviewing when you have another offer at hand with some time left before expiry.
@@ -107,15 +107,6 @@ From a preparation standpoint, consider:
     - Almost every tech companies will have a tech blog, so pick your favorite!
 
 ## Warming up
-
-### Behavioral
-
-Although most questions asked in behavioral rounds are about your past experiences, thinking about some of these common questions can help deliver a crisp answer in the interviews. 
-
-- Reason for considering other opportunities
-- Prior work experience, interesting projects
-- Working style, cultural alignment
-- Motivation or goals in life
 
 ### Coding practice
 
@@ -168,8 +159,8 @@ This is a step of discovery.
 
 The order to apply for jobs, I recommend following this order:
 
-1. Ask your friends or connections for referrals. This is the most assured way to know that a recruiter will at least take a good look at your resume. 
-    - LinkedIn is a great way to find out who in your network works at a certain place. Type the name of the company in search and see 1st and 2nd degree connections. You could ask a mutual friend to introduce you to someone who's a 2nd degree connection.
+1. Ask your friends or connections for referrals. This way, a recruiter will at least take a good look at your resume. 
+    - LinkedIn is a great way to find out who in your network works at a certain place. Type the name of the company in search and see 1st and 2nd degree connections. You could ask a mutual friend to introduce you to someone who's a 2nd degree connection. Knowing an insider is helpful.
 2. Look for recruiter emails in the past. 
     - I have a special label/folder for these, so they are easy to find.
 3. Apply via the company's job portal
@@ -230,13 +221,13 @@ If a company is interested in your profile, a recruiter will reach out to you to
 
 At this point, I would recommend only practicing coding problems that you are weak at, like Dynamic Programming or Recursion based solutions. This, only if you really have to. I would recommend completely getting off of coding practice ideally. This isn't a test where you have to remember facts. 
 
-### Behavioral questions more than technical
+### Behavioral questions
 
-Something I do like to think about very close to interviews are questions generally asked in behavioral rounds. Here are some examples:
+Although most questions asked in behavioral rounds are about your past experiences, thinking about some of these common questions beforehand can help deliver a crisp answer in the interviews. 
 
 - Questions about past projects
 
-    Think of some of the most interesting, impactful or challenging projects. I recommend real work experiences instead of personal projects as they are more comparable, but be as honest as possible. Note that these could be failed projects too. 
+    Think of some of the most interesting, impactful or challenging projects. I recommend real work experiences instead of personal projects as they are more comparable, but be as honest as possible. Note that these could be failed projects too, and you can talk about what you learned from that. 
 
 - Positive people experiences
 
@@ -246,17 +237,21 @@ Something I do like to think about very close to interviews are questions genera
 
     Examples of failed collaborations, delays due to poor communication and experiences dealing with difficult people. 
 
-- Motivations, Inspirations
-
-    Any people, projects or ideas that inspire you. 
-
 - What you're looking for in a job
 
-    What made you look for a new job? What are some of the expectations from the new job? What are you looking to learn? 
+    What made you look for a new job? What are some of the expectations from the new job? What are you looking to learn? Why do you want to join this company? 
+
+- Working style, cultural alignment 
+
+    Do you like you work alone or in a group? How do you drive 1:1s with your managers, peers, and people you manager? How do you drive cross-team collaborations? How do you plan project timelines, assign responsibilities? Do you have a framework to spot opportunities? How do you motivate teammates? 
 
 - Future Plan
 
-    Where do you see yourself in X years? 
+    Where do you see yourself in X years? What are you most skilled at? What are you trying to improve? 
+
+- Motivations, Inspirations
+
+    Any people, projects or ideas that inspire you. What activities energize you? What activities drain you? 
 
 ### Coding Rounds
 
@@ -289,7 +284,7 @@ Rejections are a part of the process.
 
 If you don’t have any rejections, you’re either an expert in your field or more likely, you didn’t aim high enough. 
 
-Also know that interviewing is not an exact science. There’s a lot of variability in the expectations vs the job description, level of difficulty of coding questions different interviews ask, how behavioral and design rounds are judged and also things like the mood of the interviewer. Do not take these as a judgement on your career and skills. There’s just too many uncontrollable variables in the mix. 
+Also know that interviewing is not an exact science. There’s a lot of variability in the expectations vs the job description, level of difficulty of coding questions interviews ask, how behavioral and design rounds are judged and also things like the mood of the interviewer. Do not take these as a judgement on your career and skills. There’s just too many uncontrollable variables in the mix. 
 
 Do not get discouraged by rejections. Ask the recruiter to provide feedback, improve on those and keep moving ahead. (Do note that most companies decline providing feedback in case of legal repercussions.)
 
@@ -297,9 +292,7 @@ Do not get discouraged by rejections. Ask the recruiter to provide feedback, imp
 
 ### Don't rush it
 
-You should ideally be interviewing with a lot of companies. This not only lets you hedge your bets and offers a chance for better compensation negotiation but also helps gain a wider perspective of what the companies you interviewed are working on and what their vision about their future is. 
-
-This also unfortunately means that you may get offers while you're still actively interviewing or stuck in getting details from another offer. 
+Interviewing with multiple companies also means that you may get offers while you're still actively interviewing or stuck in getting details from another offer. 
 
 Some recruiters try to push you into accepting an offer soon. I strongly recommend pushing back against this. Tell what companies you have interviews scheduled with and when you can give them an answer about the offer. I've generally been able to get weeks of extension once I'm honest about exact dates. 
 
@@ -311,17 +304,9 @@ I have never and would never recommend reneging an offer. It's destructive to ev
 
 Always always always negotiate. What you heard your friend get 2 years ago may not be the market rate right now. This is also skewed if the offer includes a hefty stock based compensation. The stocks have only gone up for a while now and therefore so have the "total comp." 
 
-There's absolutely no harm in respectfully asking for more. They are paying you for your time and knowledge. Ask for more base pay, more stocks and more joining bonus. Ask for benefits like a relocation bonus to be thrown in if it applies. 
+There's absolutely no harm in respectfully asking for more. They are paying you for your time and knowledge. Ask for more base pay, more stocks and more joining bonus. Ask for benefits like a relocation bonus to be thrown in if it applies. As mentioned before, having competing offers really helps here. 
 
 Everything is negotiable. 
-
-### Competing offers
-
-The best way to negotiate is to have **competing offers**.
-
-Having multiple offers makes it easier for recruiters to fight for a better offer approval for you. If you did really well, a competing offer can really help get special exceptions for a higher pay than authorized. This helps when you're really interested in working at one place but the compensation is the only thing holding you back. 
-
-Nothing is more convincing when trying to get a better deal than showing a seller what the other shop is selling the same thing for. 
 
 ## Accepting an offer
 
@@ -335,7 +320,7 @@ As soon as you start eliminating options, let the recruiters know about it so th
 
 Congratulations! 
 
-### Next step timelines
+### Next step and timelines
 
 Once you accept an offer, the legal paperwork begins. This can be time consuming, especially if you are on work visa. 
 
