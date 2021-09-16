@@ -152,9 +152,9 @@ I recommend starting with the easier ones on the website of your choice. Solve t
 
 I generally do easy problems till I find them too easy. This is when I'm getting them right back to back covering all edge cases and don't need a lot of thinking. If you're good at competitive coding, feel free to skip this step.
 
-### What do you want out of it?
+### What do you want out of a new job?
 
-Make a list of what you'd like to see in your dream job. Order it by priority. Here's some of the things to consider.
+Make a list of what you'd like to see in your dream job. Order it by priority. Here's some of the things to consider:
 
 - Team culture, manager, projects, opportunities
 - Pay
@@ -166,7 +166,7 @@ Make a list of what you'd like to see in your dream job. Order it by priority. H
 - Work life balance
 - Personal brand building or reputation
 
-I prefer writing them down beforehand. It get harder to make a decision when you have multiple offers, each with their own pros and cons. Having a list handy about why you started interviewing and what you were really looking to get out of it can help break ties later and take the emotions out.
+I prefer writing them down beforehand. It gets harder to make a decision when you have multiple offers, each with their own pros and cons. Having a list handy about why you started interviewing and what you were really looking to get out of it can help break ties later and take the emotions out of the decision making.
 
 ### Where do you want to go?
 
@@ -178,10 +178,10 @@ This is a step of discovery.
 
     Don't worry if you think you're not capable of getting a call or clearing the interview. The worst they can do is say no to you. Gotta love limited downside and unlimited upside scenarios.
 
-- Talk to your friends and peers, whether they are happy with their jobs and would recommend working in their current or past roles.
-- Read about what's going on in the startup ecosystem
-- Articles about new or fast growing companies that have a purpose that resonates with you.
-- Recruiter emails received in the past.
+- Talk to your friends and peers if they are happy with their jobs and would recommend working in their current or past roles.
+- Read about what's going on in the startup ecosystem, any exciting hot startup that could interest you. 
+- Find articles about new or fast growing companies that have a purpose that resonates with you.
+- Look for recruiter emails received in the past.
 
 ## Honing in
 
@@ -189,12 +189,12 @@ This is a step of discovery.
 
 The order to apply for jobs, I recommend following this order:
 
-1. Ask your friends or connections for referrals. This way, a recruiter will at least take a good look at your resume.
+1. Ask your friends or connections for referrals. A referral ensure that a recruiter will at least take a good look at your resume.
     - LinkedIn is a great way to find out who in your network works at a certain place. Type the name of the company in search and see 1st and 2nd degree connections. You could ask a mutual friend to introduce you to someone who's a 2nd degree connection. Knowing an insider is helpful.
 2. Look for recruiter emails in the past.
     - I have a special label/folder for these, so they are easy to find.
 3. Apply via the company's job portal
-    - I've personally not found a lot of success initially using this method. Resumes in the common recruiter queues are easy to ignore in a lot of companies.
+    - I've personally not found a lot of success using this method. Resumes in the general pool are easy to ignore by recruiters in a lot of companies.
 4. Mark yourself as looking for a job on LinkedIn.
 5. Reach out to recruiters directly on LinkedIn. A lot of them have their work emails on their profiles. I found a lot of success directly emailing my resume to recruiters this way when I was a fresh grad.
 
@@ -432,4 +432,4 @@ It is truly unfortunate that the coding interviews have gotten to where they are
 
 With that said, there are very few solutions to the problem. That's why most companies still follow these even when they're aware that this isn't the best process.
 
-I observed really great interviewing styles at Stripe, Square and Apple, which were more focused on completing a task or a small project in a constrained setting rather than a directed coding problem. From my experience, these were at least more representative of real work than simply a test of how much one has practiced competitive programming problems. This has been a rare sight in my experience.
+I observed really great interviewing styles at Stripe, Square and Apple. They were more focused on completing a task or a small project in a constrained setting rather than a directed coding problem. From my experience, these were more representative of real work than simply a test of how much one has practiced competitive programming problems. This has been a rare sight in my experience.
