@@ -9,7 +9,7 @@ I'm interested in AI, distributed systems, startups, personal productivity, fina
 
 I'm a software engineering working on proliferation of Deep Learning at Uber AI. 
 
-Previously, I worked at Facebook AI, focusing on frameworks and infrastructure around NLP and ML training in general in the PyTorch org. An Open Source example of some of the work is [PyText.](https://github.com/facebookresearch/pytext) 
+Previously, I worked at Facebook AI, focusing on frameworks and infrastructure around NLP and ML training in general in the PyTorch org. An Open Source example of some of the work is [PyText.](https://github.com/facebookresearch/pytext). I've also worked at Amazon and Morgan Stanley.
 
 I've created this blog to mainly have version controlled notes for myself. I do spend a lot of time researching and maybe it helps someone out there in the interweb. :) 
 
