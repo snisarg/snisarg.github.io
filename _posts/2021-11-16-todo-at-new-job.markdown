@@ -7,7 +7,7 @@ categories: blog
 comments: true
 ---
 
-Early things to do while starting at a new job to succeed.
+Timeline of things to do at a new job to get the ball rolling. 
 
 ## Week 1
 
