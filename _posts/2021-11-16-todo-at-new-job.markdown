@@ -23,11 +23,11 @@ Reach out to friends or colleagues
 
 Focus on Beginners Guides/Ramp up Documents
 
-- Learn what's directed called out out to be required for the job.
+- Learn what is specfically called out out to be required for the job.
 
 ## Week 2 - 3
 
-Set up meetings with at many people are possible 
+Set up meetings with as many people are possible 
 
 - Informal questions to build a connection, relationship.
 - Ask:
