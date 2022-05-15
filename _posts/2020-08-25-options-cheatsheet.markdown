@@ -30,6 +30,7 @@ Quick notes about option greeks and basic option strategies for a forgetful pers
 ### Gamma
 
 - The amount by which the Delta changes for every dollar movement in the underlying.
+- The larger the gamma, the more volatile the price of the option.
 - Gamma increases as you get close to expiry.
 
 ### Theta
