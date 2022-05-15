@@ -9,7 +9,7 @@ comments: true
 
 ---
 
-Questions to ask yourself when deciding whether to stay in your current team, change teams or look for new opportunities. 
+*Questions to ask yourself when deciding whether to stay in your current team, change teams or look for new opportunities.*
 
 Engineers have great flexibility in choosing employers or projects to work on thanks to the ever growing demand for computer scientists. I am documenting questions I ask myself every 6 months to make sure I'm working on projects I want to work on with people I can learn from and enjoy working with. Some points may be specific only for engineer but I'll try to be generic. 
 

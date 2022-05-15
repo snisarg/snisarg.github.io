@@ -7,7 +7,7 @@ categories: blog
 comments: true
 ---
 
-Timeline of things to do at a new job to get the ball rolling. 
+*Timeline of things to do at a new job to get the ball rolling.*
 
 ## Week 1
 

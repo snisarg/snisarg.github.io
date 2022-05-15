@@ -7,7 +7,7 @@ categories: blog
 comments: true
 ---
 
-Quick notes about option greeks and basic option strategies for a forgetful person like me.
+*Quick notes about option greeks and basic option strategies for a forgetful person like me.*
 
 ## Option Stats + Greeks
 

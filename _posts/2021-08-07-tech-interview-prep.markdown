@@ -6,7 +6,7 @@ date:   2021-08-07 00:00:00 -0800
 categories: blog
 comments: true
 ---
-Approaching tech interviews from preparation to offer acceptance.
+*Approaching tech interviews: from preparation to offer acceptance.*
 
 Till date, I've had the fortune and misfortune of going through the experience of not having any interviews, to multiple phone screens a day and back to back on-sites. This note will summarize things I've learned giving 40+ interviews and having 25+ offers in total in the 4 times I've interviewed.
 

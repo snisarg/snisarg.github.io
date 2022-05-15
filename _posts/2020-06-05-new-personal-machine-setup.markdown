@@ -7,7 +7,7 @@ categories: blog
 comments: true
 ---
 
-Handy guide to set up a new machine so everything is as is.
+*Handy guide to set up a new machine so everything is as is.*
 
 # MacOS
 

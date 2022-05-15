@@ -7,7 +7,7 @@ categories: blog
 comments: true
 ---
 
-TLDR; learn to make the best decisions with limited information and resist the urge to figure out absolutely everything before making a move in the interest of time.
+*TLDR; learn to make the best decisions with limited information and resist the urge to figure out absolutely everything before making a move in the interest of time.*
 
 
 #### Story time

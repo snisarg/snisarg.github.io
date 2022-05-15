@@ -9,7 +9,7 @@ comments: true
 
 ---
 
-This note talks about tax advantaged schemes in the US I employee and my current thinking into why and how much I should be investing with these accounts.
+*This note talks about tax advantaged schemes in the US I employee and my current thinking into why and how much I should be investing with these accounts.*
 
 ## HSA
 
