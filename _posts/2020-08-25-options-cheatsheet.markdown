@@ -25,13 +25,15 @@ comments: true
 ### Delta
 
 - The amount by which the value of the option moves for every dollar movement in the underlying.
-- The more "In the money", the more is the delta. "At the money" deltas are 0.5.
+- The more "In the money", the more is the delta. "At the money" deltas are 0.5. Think of this as the probability that the option will expire in-the-money. 
 
 ### Gamma
 
 - The amount by which the Delta changes for every dollar movement in the underlying.
 - The larger the gamma, the more volatile the price of the option.
-- Gamma increases as you get close to expiry.
+- Gamma increases as you get close to expiry. This means the delta, and therefore the option price will swing more wildly the closer you are to expiry.
+- Links
+    - https://optionstradingiq.com/gamma-risk-explained/
 
 ### Theta
 
