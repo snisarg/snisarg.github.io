@@ -27,14 +27,16 @@ show_excerpts: true
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: jekyll/minima
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-remote-theme
 
 # Google Analytics
-google_analytics: UA-143385424-1
+google_analytics: G-YR4LN10XMP
 
 social:
   name: Nisarg Shah
