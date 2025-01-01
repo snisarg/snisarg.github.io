@@ -61,8 +61,9 @@ comments: true
     * Sound
         * Check Show volume in menu bar
     * Keyboard
-        * Shortcuts
-            * Mission Control > turn on all "Switch to Desktop X" from 1 to 10"
+        * Keyboard Shortcuts
+            * Mission Control Tab | Mission Control > turn on all "Switch to Desktop X" from 1 to 10"
+            * Keyboard Tab | Update "Move focus to active or next window" to Cmd + Esc
     * Trackpad
         * Point & Click
             * Check Tap to click
