@@ -35,3 +35,4 @@ Within 2 days, I also added `control`, `option` and `command` to `a`, `s` and `d
 ## Current Plan
 
 My plan is to measure how quickly I can adopt to using `caps lock` as a layer key to toggle the functionality of the QWERTY key layout.
+My Karabiner config is at https://github.com/snisarg/dotfiles/blob/master/.config/karabiner/karabiner.json
