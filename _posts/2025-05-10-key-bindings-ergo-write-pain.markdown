@@ -32,7 +32,17 @@ My digging around led me to [Karabiner](https://karabiner-elements.pqrs.org/), a
 
 Within 2 days, I also added `control`, `option` and `command` to `a`, `s` and `d` .
 
+## May 2025 (also): Home Row Mods
+
+I'm already hooked and have started using the new keybindings well. I added using 'tap and hold' modifiers to override the behavior of basic keys. I had a hard time setting this up, but what worked for me was using the conf from https://github.com/Erlendms/karabiner-actions/blob/main/actions/home_row_mods-s_ct_o_c.json
+
+I've assigned the following 'tap and hold' behavior: 
+`a` or `;` = `shift`
+`s` or `l` = `control`
+`d` or `k` = `option`
+`f` or `j` = `command`
+
 ## Current Plan
 
-My plan is to measure how quickly I can adopt to using `caps lock` as a layer key to toggle the functionality of the QWERTY key layout.
+My plan is to measure how quickly I can adopt to using `caps lock` as a layer key to toggle the functionality of the QWERTY key layout and see if I use Home Row Mods for everyday operations.
 My Karabiner config is at https://github.com/snisarg/dotfiles/blob/master/.config/karabiner/karabiner.json
