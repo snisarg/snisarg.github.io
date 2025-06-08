@@ -42,7 +42,13 @@ I've assigned the following 'tap and hold' behavior:
 `d` or `k` = `option`
 `f` or `j` = `command`
 
+## June 2025: Tap and hold TAB as HYPER key
+
+It didn't take me as much time as I anticipated to adopt to the new system. I added home row mod (press and hold) for the TAB key. The current behavior launches the most popular apps I use, for example my note taking app and my daily log with just TAB + "char_key". Before this, I would use cmd + space to launch Spotlight Search and then type the first 3 characters of the app I was looking for and then hit enter.
+
+The HYPER key is popular coded to fire `command` + `control` + `option` together, so it doesn't conflict with any other keyboard shortcut, opening users to define any custom shortcut they please. However, I used the `variable` feature in Karabiner to code this up instead, which was significantly easier to set up. I was also able to use ChatGPT for the configurations which saved me a lot of time.
+
 ## Current Plan
 
-My plan is to measure how quickly I can adopt to using `caps lock` as a layer key to toggle the functionality of the QWERTY key layout and see if I use Home Row Mods for everyday operations.
+I'm going to monitor how long I take to adopt these keys, and if it truly makes a difference in my everyday productivity.
 My Karabiner config is at https://github.com/snisarg/dotfiles/blob/master/.config/karabiner/karabiner.json
