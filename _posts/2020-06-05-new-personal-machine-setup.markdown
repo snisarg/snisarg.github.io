@@ -107,3 +107,14 @@ comments: true
     * Toolbar > iTerm2 > 
         * Make iTerm2 Default Term
         * Install Shell Integrations
+1. Raycast Extensions
+    * Use to find the extensions you would like https://www.raycast.com/store/popular#list
+    * In the past, I have installed:
+        * Bitwarden
+        * Format JSON
+        * Github
+        * Notion
+        * Quick Event
+        * Safari
+        * Slack
+        * Toggl Track
