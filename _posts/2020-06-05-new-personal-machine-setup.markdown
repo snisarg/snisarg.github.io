@@ -14,28 +14,36 @@ comments: true
 1. Deleted unwanted preinstalled apps 
 1. Install all OS updates
 1. From the App Store, install:
-    * Toggl
-    * OneNote
+    * Toggl Track
     * Messenger
+    * OneNote
+    * Opal
+    * Tailscale
     * WhatsApp
-    * If they ever release a good desktop app, Pocket and Feedly
     * XCode
 1. From default browser, install:
+    * AlDente https://apphousekitchen.com
     * Chrome
-    * iTerm2
-    * OneDrive for Mac
     * Google Drive File Stream
+    * iTerm2
+    * Karabiner Elements https://karabiner-elements.pqrs.org
+    * Notion
+    * ollama
+    * OneDrive for Mac
+    * Raycast
     * Sublime Text
 1. Chrome
     * Sync Gmail and other accounts as separate profiles
     * Plugins should be pulled with the accounts:
-        1. LastPass
+        1. BitWarden
         1. DarkReader
-        1. Pocket plugin
+        1. Instapaper plugin
+        1, Vertical Tabs
     * Create Chrome shortcuts for: 
 	    1. Daily Log on Google Docs
 	    1. Google Keep
-	    1. Pocket (if they still don't have a good MacOS app)
+        1, Food Log on Google Docs
+	    1. Instapaper (if they still don't have a good MacOS app)
 	    1. Feedly (if they still don't have a good MacOS app)
 	    1. Toggl Summary view, set to 'today'
 1. In System Preferences:
@@ -64,6 +72,7 @@ comments: true
         * Keyboard Shortcuts
             * Mission Control Tab | Mission Control > turn on all "Switch to Desktop X" from 1 to 10"
             * Keyboard Tab | Update "Move focus to active or next window" to Cmd + Esc
+            * Spotlight Tab | Show Spotlight Search | Uncheck (replace with Raycast)
     * Trackpad
         * Point & Click
             * Check Tap to click
@@ -97,4 +106,4 @@ comments: true
     * Open iTerm2
     * Toolbar > iTerm2 > 
         * Make iTerm2 Default Term
-        * Install Shell Integrations 
+        * Install Shell Integrations
