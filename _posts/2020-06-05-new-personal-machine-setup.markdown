@@ -109,12 +109,22 @@ comments: true
         * Install Shell Integrations
 1. Raycast Extensions
     * Use to find the extensions you would like https://www.raycast.com/store/popular#list
-    * In the past, I have installed:
+    * In the past, I have installed the following apps and set them up like:
         * Bitwarden
+        * Calendar
+           * My Schedule command alias: `s`
+        * Chrome
+           * Search Tabs command: `ct`
         * Format JSON
         * Github
+        * Home Assistant
+           * All Entities command: `ha`
         * Notion
         * Quick Event
         * Safari
+           * Search Tabs command alias: `st`
         * Slack
         * Toggl Track
+           * Start/Stop Time Entry alias: `t`
+        * Whatsapp
+           * Open chat command alias: `wo`
