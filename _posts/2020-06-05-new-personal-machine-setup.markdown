@@ -128,3 +128,6 @@ comments: true
            * Start/Stop Time Entry alias: `t`
         * Whatsapp
            * Open chat command alias: `wo`
+1. Ice (https://github.com/jordanbaird/Ice/releases)
+1. FluidVoice (https://github.com/altic-dev/FluidVoice)
+   * Change the key to trigger the voice to F5
