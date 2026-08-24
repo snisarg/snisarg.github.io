@@ -14,6 +14,7 @@ comments: true
 1. Deleted unwanted preinstalled apps 
 1. Install all OS updates
 1. From the App Store, install:
+    * Amphetamine
     * Toggl Track
     * Messenger
     * OneNote
@@ -28,6 +29,7 @@ comments: true
     * iTerm2
     * Karabiner Elements https://karabiner-elements.pqrs.org
     * Notion
+    * Obsidian
     * ollama
     * OneDrive for Mac
     * Raycast
@@ -115,19 +117,40 @@ comments: true
            * My Schedule command alias: `s`
         * Chrome
            * Search Tabs command: `ct`
+        * Flow Timer
         * Format JSON
         * Github
         * Home Assistant
            * All Entities command: `ha`
+        * Instapaper
+        * iTerm
+        * Jira
+        * Messages
+        * Model Context Protocol Registry
         * Notion
+        * Obsidian
         * Quick Event
         * Safari
            * Search Tabs command alias: `st`
         * Slack
+        * Splitwise
         * Toggl Track
            * Start/Stop Time Entry alias: `t`
+        * Warp
         * Whatsapp
            * Open chat command alias: `wo`
 1. Ice (https://github.com/jordanbaird/Ice/releases)
 1. FluidVoice (https://github.com/altic-dev/FluidVoice)
    * Change the key to trigger the voice to F5
+1. AltTab (https://github.com/lwouis/alt-tab-macos)
+   * Replaces the default Cmd+Tab app switcher with a Windows-style window preview switcher
+1. MeetingBar (https://github.com/leits/MeetingBar)
+   * Shows your next meeting in the menu bar with a one-click join
+1. Shortcat (https://shortcat.app)
+   * Keyboard-driven clicking on any on-screen UI element, no mouse needed
+1. Syncthing (https://github.com/syncthing/syncthing)
+1. Tailscale (https://github.com/tailscale/tailscale)
+   * Zero-config mesh VPN built on WireGuard
+1. ZMK Studio (https://github.com/zmkfirmware/zmk-studio)
+   * Companion app for tweaking ZMK keyboard firmware without reflashing
+   * Open-source continuous file sync between machines, no cloud middleman
