@@ -40,7 +40,8 @@ comments: true
         1. BitWarden
         1. DarkReader
         1. Instapaper plugin
-        1, Vertical Tabs
+        1. Duplicate Tabs Closer
+        1. Open in Popup Window
     * Create Chrome shortcuts for: 
 	    1. Daily Log on Google Docs
 	    1. Google Keep
