@@ -118,7 +118,6 @@ comments: true
            * My Schedule command alias: `s`
         * Chrome
            * Search Tabs command: `ct`
-        * Flow Timer
         * Format JSON
         * Github
         * Home Assistant
@@ -149,6 +148,8 @@ comments: true
    * Shows your next meeting in the menu bar with a one-click join
 1. Shortcat (https://shortcat.app)
    * Keyboard-driven clicking on any on-screen UI element, no mouse needed
+1. TomatoBar (https://github.com/ivoronin/TomatoBar)
+   * Menu bar pomodoro timer
 1. Syncthing (https://github.com/syncthing/syncthing)
 1. Tailscale (https://github.com/tailscale/tailscale)
    * Zero-config mesh VPN built on WireGuard
