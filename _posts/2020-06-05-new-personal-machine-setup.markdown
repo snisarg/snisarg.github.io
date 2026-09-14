@@ -15,6 +15,7 @@ comments: true
 1. Install all OS updates
 1. From the App Store, install:
     * Amphetamine
+    * Discord
     * Toggl Track
     * Messenger
     * OneNote
@@ -34,6 +35,7 @@ comments: true
     * OneDrive for Mac
     * Raycast
     * Sublime Text
+    * yabai https://github.com/koekeishiya/yabai
 1. Chrome
     * Sync Gmail and other accounts as separate profiles
     * Plugins should be pulled with the accounts:
@@ -95,6 +97,7 @@ comments: true
         * `$ defaults write com.apple.screencapture location ~/Downloads`
 1. Get your dotfiles from github.com/snisarg/dotfiles
     * `$ cd /tmp && git clone https://github.com/snisarg/dotfiles.git && rm -rf dotfiles/.git && cp dotfiles/.* ~` 
+    * yabai's configuration is included in the dotfiles
 
 ### Application specific preferences 
 
