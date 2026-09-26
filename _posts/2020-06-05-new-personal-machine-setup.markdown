@@ -147,6 +147,9 @@ comments: true
    * Change the key to trigger the voice to F5
 1. AltTab (https://github.com/lwouis/alt-tab-macos)
    * Replaces the default Cmd+Tab app switcher with a Windows-style window preview switcher
+1. Borders (https://github.com/FelixKratz/JankyBorders)
+   * Highlights the currently focused window with a configurable border
+   * Install with `brew tap FelixKratz/formulae && brew install borders`
 1. MeetingBar (https://github.com/leits/MeetingBar)
    * Shows your next meeting in the menu bar with a one-click join
 1. Shortcat (https://shortcat.app)
