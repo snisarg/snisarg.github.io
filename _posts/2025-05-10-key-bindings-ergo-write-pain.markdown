@@ -48,7 +48,16 @@ It didn't take me as much time as I anticipated to adopt to the new system. I ad
 
 The HYPER key is popular coded to fire `command` + `control` + `option` together, so it doesn't conflict with any other keyboard shortcut, opening users to define any custom shortcut they please. However, I used the `variable` feature in Karabiner to code this up instead, which was significantly easier to set up. I was also able to use ChatGPT for the configurations which saved me a lot of time.
 
-## Current Plan
+## October 2026: Moving the mouse without leaving the keyboard
 
-I'm going to monitor how long I take to adopt these keys, and if it truly makes a difference in my everyday productivity.
-My Karabiner config is at https://github.com/snisarg/dotfiles/blob/master/.config/karabiner/karabiner.json
+Earlier, I talked about learning shortcuts to reduce how often I reach for the mouse. My latest addition takes that idea more literally: moving the mouse pointer using the keyboard.
+
+Holding Space gives me a mouse movement layer. I use `e` to move up, `s` to move left, `d` to move down, and `f` to move right. These keys form a directional cluster close to where my left hand already rests.
+
+One speed isn't enough for both positioning the pointer and getting across the screen. The normal movement is slower, and holding `;` while in the mouse layer gives me a faster mode.
+
+I've gone through several rounds of adjusting these speeds. Adding the mappings was only the first step; deciding how the pointer should move has become its own experiment.
+
+This extends the idea behind my arrow-key layer. Instead of moving my hand to a separate set of controls, I bring those controls to keys already within reach.
+
+The configuration is in [my Space mouse layer rule](https://github.com/snisarg/dotfiles/blob/master/.config/karabiner/assets/complex_modifications/space_mouse_layer.json).
