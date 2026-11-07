@@ -35,6 +35,7 @@ comments: true
     * OneDrive for Mac
     * Raycast
     * Sublime Text
+    * Untl https://untl-timer.app
     * yabai https://github.com/koekeishiya/yabai
 1. Chrome
     * Sync Gmail and other accounts as separate profiles
@@ -156,6 +157,11 @@ comments: true
    * Keyboard-driven clicking on any on-screen UI element, no mouse needed
 1. TomatoBar (https://github.com/ivoronin/TomatoBar)
    * Menu bar pomodoro timer
+1. Untl (https://untl-timer.app)
+   * Menu bar timer with plain-language input, a screen-edge progress bar, and fullscreen alerts
+   * Use the global hotkey to enter a duration or end time, such as `20m` or `18:30`
+   * Supports repeating work/break timers and a countdown until the next calendar event
+   * Requires macOS 26 or later; download from the website
 1. Syncthing (https://github.com/syncthing/syncthing)
 1. Tailscale (https://github.com/tailscale/tailscale)
    * Zero-config mesh VPN built on WireGuard
